@@ -1,0 +1,10 @@
+C:\Users\olegt\source\repos\fractals\fractals\bin\Debug\fractals.exe.config
+C:\Users\olegt\source\repos\fractals\fractals\bin\Debug\fractals.exe
+C:\Users\olegt\source\repos\fractals\fractals\bin\Debug\fractals.pdb
+C:\Users\olegt\source\repos\fractals\fractals\obj\Debug\fractals.csprojAssemblyReference.cache
+C:\Users\olegt\source\repos\fractals\fractals\obj\Debug\fractals.Form1.resources
+C:\Users\olegt\source\repos\fractals\fractals\obj\Debug\fractals.Properties.Resources.resources
+C:\Users\olegt\source\repos\fractals\fractals\obj\Debug\fractals.csproj.GenerateResource.cache
+C:\Users\olegt\source\repos\fractals\fractals\obj\Debug\fractals.csproj.CoreCompileInputs.cache
+C:\Users\olegt\source\repos\fractals\fractals\obj\Debug\fractals.exe
+C:\Users\olegt\source\repos\fractals\fractals\obj\Debug\fractals.pdb
